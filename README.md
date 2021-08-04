@@ -2,7 +2,7 @@
 
 ### Installation
 
-Clone this repo to local computer and $cd this-project` then install npm.
+Clone this repo to local computer and go into this project hen install npm.
 
 #### To run this project:
 
